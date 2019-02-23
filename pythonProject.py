@@ -36,4 +36,3 @@ fruit == "apples"
 # checking to see if "fruit" equals
 fruit == "oranges"
 
-# 3. Comparisons
