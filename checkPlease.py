@@ -15,3 +15,12 @@ amount_due = split_check(total_due, number_of_people)
 
 
 print("Each person owes ${}. Pay up!".format(amount_due))
+
+# creating a function for something that calculates the square of
+# a number passed in
+
+def square(number):
+    return(number * number)
+
+result = square(3)
+print(result)
